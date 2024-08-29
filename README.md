@@ -86,11 +86,11 @@ I’m a passionate and experienced Full Stack Developer with over 3.5 years of e
 - **Description**: An educational platform with functionalities for teachers, parents, and children, including lecture management.
 - **Tech Stack**: React.js, Material UI, Bootstrap, Cognito, Google Drive
 
- <p align="center">
+<!--  <p align="center">
   <h4> 📈 Full Stack | Competitive Programming </h4>
    </p>
 
-<!--  -->
+ 
 
 <p align="center" >
 <a href="https://github.com/aneesrehman104/github-readme-stats"> 
@@ -99,7 +99,7 @@ I’m a passionate and experienced Full Stack Developer with over 3.5 years of e
 
 </p>
 
-<br />
+<br /> -->
 
 ## 🤝 Let's Connect
 
