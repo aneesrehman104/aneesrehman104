@@ -85,7 +85,7 @@ I’m a passionate and experienced Full Stack Developer with over 3.5 years of e
 ### [CYBER LEGEND](https://github.com/aneesrehman104/cyber-legend)
 - **Description**: An educational platform with functionalities for teachers, parents, and children, including lecture management.
 - **Tech Stack**: React.js, Material UI, Bootstrap, Cognito, Google Drive
-
+<!--
 <p align="center">
   <h4> 📈 Full Stack | Competitive Programming </h4>
    </p>
@@ -98,6 +98,7 @@ I’m a passionate and experienced Full Stack Developer with over 3.5 years of e
   </a>
 
 </p>
+-->
 
 <br /> 
 
